@@ -7,17 +7,19 @@ Java (JDK 8)
 ## Cockpit Client Configuration
 Please modify the configuration properties as per your installations (restclient.properties)
 
-Cockpit server protocol
+Cockpit server protocol:
 
 protocol=http
 
-Cockpit server host
+
+Cockpit server host:
 
 host=localhost
 
 you must put hostname of the machine running the cockpit server (Change as per need)
 
-Cockpit server port
+
+Cockpit server port:
 
 port=3001
 
